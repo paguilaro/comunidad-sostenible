@@ -1,0 +1,39 @@
+/* Inserta tu codigo aqui */
+#logo {    
+    display: block;
+    width: 200px;
+}
+#menu {
+    margin-top: 70px;
+    font-size: 1.5rem;
+}
+#menu li {
+    display: inline-block;
+}
+.brote{
+    background-image: url("../img/semilla.jpg");
+    background-size: cover;
+    background-position: 50% 50%;
+    height: 500px;
+    width: 100%;
+}
+#parrafo {
+    font-size: 1rem;
+    margin: 40px;
+}
+#mision {
+    display: inline-block;
+    width: 200px;
+    
+}
+#vision {
+    display: inline-block;
+    width: 200px;
+}
+.metodologia {
+    background-image: url("../img/semilla.jpg");
+    background-size: cover;
+    background-position: 50% 50%;
+    height: 500px;
+    width: 100%;
+}
