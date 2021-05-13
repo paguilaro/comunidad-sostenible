@@ -23,17 +23,45 @@
 }
 #mision {
     display: inline-block;
-    width: 200px;
-    
+    width: 200px;  
 }
 #vision {
     display: inline-block;
     width: 200px;
 }
-.metodologia {
-    background-image: url("../img/semilla.jpg");
+.presentador {
+    background-image: url("../img/metodo.JPG");
     background-size: cover;
     background-position: 50% 50%;
-    height: 500px;
+    height: 400px;
+    width: 50%;
+}
+.metodologia {
+    background-image: url("../img/fondo.jpg");
+    background-size: cover;
+    background-position: 50% 50%;
+    float: right;
+    height: 400px;
+    width: 50%;
+}
+#metodologia_icono {
+    display: block;
+    width: 50px;
+    vertical-align: 30px; 
+    margin: 0 auto; 
+}
+#educacion, #mitigacion, #bienestar {
+    display: inline-block;
+    width: 100px;
+}
+#seguridad, #aguas, #agricultura {
+    display: inline-block;
+    width: 100px;
+}
+.proyectos{
+    background-image: url("../img/fondo.jpg");
+    background-size: cover;
+    background-position: 50% 50%;
+    height: 1000px;
     width: 100%;
 }
